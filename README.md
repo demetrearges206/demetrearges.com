@@ -1,3 +1,3 @@
 # demetrearges.com
 
-Personal website for Demetre Arges.
+This is my personal website.
